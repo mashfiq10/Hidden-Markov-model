@@ -1,9 +1,7 @@
 #!/usr/bin/python
 
 #############################################################
-# CS5783: Machine Learning #
-# Assignment 4 #
-# Problem 3: Hidden Markov Model#
+# Hidden Markov Model#
 # Sk. Mashfiqur Rahman #
 #############################################################
 
